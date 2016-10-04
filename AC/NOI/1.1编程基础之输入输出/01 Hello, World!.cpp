@@ -1,0 +1,15 @@
+#include<cstdio>
+int main(){
+	puts("Hello, World!");
+	return 0;
+}
+/*
+	
+	Oct.30.15
+	Submit:1
+	
+	Memory 4kB
+	Time 0ms
+	Code Length 65B
+	
+*/
